@@ -1,3 +1,1 @@
-# Hello-world
-My first ripository 
-I like c language..and i want to do some new projects....
+massage ('Hello World');
